@@ -6,7 +6,7 @@
 	let active = 'available';
 </script>
 
-<div class="bg-black h-screen w-full pt-16 mx-auto">
+<div class="bg-black min-h-screen w-full pt-16 mx-auto">
 	<img class="absolute top-0 left-0 right-0 z-0" src={bgCafe} alt="" />
 	<div
 		class="bg-grey flex flex-col items-center justify-center px-14 mt-40 py-24 relative z-[1] rounded-lg w-4/5 max-w-7xl mx-auto"
